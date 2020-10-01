@@ -293,6 +293,8 @@ while(g.read((char*)&d,sizeof(d)))
 }
 g.close();
 }
+
+/********************Main Function*********************/
 void main()
 {
 	clrscr();
